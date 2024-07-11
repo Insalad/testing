@@ -1,3 +1,4 @@
 local whitelisted = {
-
+    "[]",
+    "clientid:D4357A5E-77DF-4540-B0DD-699D17729636"
 }
